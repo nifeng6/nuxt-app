@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8",
+    "nuxt-windicss": "^2.5.1",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-icons": "^0.14.8",
+    "unplugin-vue-components": "^0.22.4",
+    "element-plus": "^2.2.15",
+    "@windicss/plugin-animations": "^1.0.9",
+    "@element-plus/icons-vue": "^2.0.9"
+
+  }
+}
